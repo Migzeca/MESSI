@@ -1,0 +1,10 @@
+#jogos {
+ background-color: blue;
+  /* display : flex ; */
+  /* justify-content:space-between; */
+padding-top : 20px;
+}
+
+body {
+    background-color: aqua;
+}
